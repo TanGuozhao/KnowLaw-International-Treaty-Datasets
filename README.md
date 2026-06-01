@@ -16,8 +16,8 @@
 ## 目录结构
 
 ```text
-data/
-  json/                # 已整理的条约 JSON 数据
+json/                # 已整理的条约 JSON 数据
+pdf/                 # 下载好的条约PDF原文
 metadata/
   catalog.csv          # 数据目录索引
   schema.md            # JSON 结构和字段说明
