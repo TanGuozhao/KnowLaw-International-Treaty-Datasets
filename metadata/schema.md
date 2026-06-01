@@ -1,6 +1,6 @@
 # JSON Schema 说明
 
-本文档说明 `data/json/` 中条约结构化 JSON 的约定结构。该说明是数据集文档，不是严格的 JSON Schema 校验文件。
+本文档说明 `json/` 中条约结构化 JSON 的约定结构。该说明是数据集文档，不是严格的 JSON Schema 校验文件。
 
 ## 顶层结构
 
