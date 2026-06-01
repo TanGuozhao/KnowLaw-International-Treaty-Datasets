@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "title": "中华人民共和国政府与泰王国政府关于在《中国－东盟全面经济合作框架协议》“早期收获”方案下加速取消关税的协议",
+    "doc_type": "agreement",
+    "law_type": "bilateral",
+    "summary": "本协议是中国与泰国在中国—东盟自贸区框架下达成的双边专项安排，核心是在“早期收获”方案基础上对部分农产品提前加速取消关税，进一步扩大中泰果蔬等产品贸易自由化，提前兑现降税承诺，便利双边货物通关，促进中泰经贸务实合作，为中国—东盟自贸区整体推进提供示范。",
+    "country": [
+      "中华人民共和国",
+      "泰王国"
+    ],
+    "keyword": [
+      "中国",
+      "泰国",
+      "早期收获",
+      "加速取消关税",
+      "果蔬贸易",
+      "自贸区",
+      "关税减让",
+      "中泰合作"
+    ],
+    "sign_date": "2003-06-18",
+    "sign_place": "泰国曼谷",
+    "publication_date": [
+      "2003-06-18",
+      "2003-10-01"
+    ],
+    "effective_date": "2003-10-01",
+    "expiry_date": "未失效",
+    "amendment_date": "无",
+    "status": "active",
+    "page_count": 3,
+    "source": "中国自由贸易区服务网",
+    "source_url": "https://fta.mofcom.gov.cn/china_dongmeng_upgrade/china_dongmeng_special.shtml",
+    "source_file_url": "https://fta.mofcom.gov.cn/china_dongmeng_upgrade/annex/Ching-Thailand_zqshjh-qxgsxy_cn.pdf",
+    "split_routing": "preamble_then_body",
+    "instrument_profile": "full",
+    "source_fingerprint": "sha256:china_thailand_early_harvest_acceleration_2003",
+    "first_article_line_index": 2,
+    "graph_short_name": "中泰早期收获协议"
+  },
+  "type": "document",
+  "title": "中华人民共和国政府与泰王国政府关于在《中国－东盟全面经济合作框架协议》“早期收获”方案下加速取消关税的协议",
+  "children": [
+    {
+      "type": "preamble",
+      "label": "",
+      "title": "",
+      "children": [
+        {
+          "text": "中华人民共和国政府和泰王国政府(以下简称缔约方)，\n根据中华人民共和国总理温家宝和泰国总理塔信.钦那瓦警中校于二〇〇三年四月二十九日在曼谷举行的关于同意尽快取消两国水果和蔬菜产品关税的会谈，\n忆及包括“早期收获”方案的《中华人民共和国与东南亚国家联盟全面经济合作框架协议》(以下简称《框架协议》)，\n期望加速执行作为东盟-中国自由贸易区组成部分的《框架协议》“早期收获”方案，\n达成协议如下：",
+          "type": "text",
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "article",
+      "label": "",
+      "title": "",
+      "children": [
+        {
+          "text": "一、缔约方应尽快取消《框架协议》“早期收获”方案中《协调制度》第七章、第八章蔬菜、水果产品的关税，并应不迟于二00三年十月一日实施。\n二、缔约方应根据本协议附件1关于“完全获得”原则的定义实施原产地规则，并在缔约方负责海关监管的部门之间建立密切的合作机制。\n三、本协议附件1为本协议不可分割的一部分。\n本协议自签字之日起生效。",
+          "type": "text",
+          "children": []
+        },
+        {
+          "type": "paragraph",
+          "label": "",
+          "title": "",
+          "children": [
+            {
+              "text": "中华人民共和国政府\n吕福源\n商务部部长",
+              "type": "text",
+              "children": []
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "label": "",
+          "title": "",
+          "children": [
+            {
+              "text": "泰王国政府\n阿滴塞·博得哈拉米克\n商业部部长",
+              "type": "text",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "annex",
+      "label": "附件I：",
+      "title": "",
+      "children": [
+        {
+          "type": "article",
+          "label": "",
+          "title": "中泰关于临时“完全获得”原则定义的谅解",
+          "children": [
+            {
+              "text": "I.由一方出口到另一方在其领土收获、采摘或采集的《协调制度》\n第七章、第八章所列的蔬菜和水果产品，在符合直接运输的规定时，应被视为在该国原产。\n\nII.下列条件应被认定为师从出口方向进口方的直接运输:\n1. 若产品运输未经其它非缔约方领土；\n2. 产品运输经一个或多个中间非缔约方，在非缔约方经过或未经转运或短暂储存，但需：\n(a)有充分理由证明过境运输是因地理原因或只因考虑运输要求而产生的；\n(b) 运输的产品未在非缔约方领土内交易或消费；以及\n(c) 除卸货、重新装货或其它为使产品保持良好状态的操作外，产品在非缔约方领土内未经任何其它操作。\n\nII.本关于临时“完全获得”原则的定义应由根据《中国-东盟全面经济合作框架协议》第三条(8)(b)制定并实施的原产地规则中规定的“完全获得”原则的定义替换和取代。",
+              "type": "text",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
